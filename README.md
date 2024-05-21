@@ -21,7 +21,7 @@ Digite o segundo número:
 
 ### Saída
 
-O programa irá imprimir:
+O programa irá imprimir: "\n"
 
 Imprimindo o número: 1
 Imprimindo o número: 2
